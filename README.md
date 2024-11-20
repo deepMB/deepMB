@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deepMB
-- 👀 I’m interested in Computer Vision, Dependable AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on CV,DAI
+- 👀 I’m interested in AI
+- 🌱 I’m working as Generative AI developer
 - 📫 Drop mail mangaldeep7@gmail.com
 
 <!---
